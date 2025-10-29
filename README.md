@@ -1,4 +1,6 @@
-# PayPortal 💳 – Digital Payment Platform using Microservices
+# PayPortal 💳 
+
+## Digital Payment Platform using Microservices
 
 PayPortal is a scalable fintech backend application built using **Java**, **Spring Boot**, and **Distributed Microservices Architecture**.  
 The system integrates **API Gateway**, **JWT-based authentication**, **Kafka** for event-driven communication, **Redis** for caching and session management and **Docker** for containerized deployment—ensuring high performance, security, and scalability across all services.
