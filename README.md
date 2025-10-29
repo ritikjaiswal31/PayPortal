@@ -5,17 +5,6 @@ The system integrates **API Gateway**, **JWT-based authentication**, **Kafka** f
 
 ---
 
-## Core Technologies
-
-✅ API Gateway (Spring Cloud Gateway)  
-✅ JWT Authentication & Authorization  
-✅ Kafka (Event-driven Communication)  
-✅ Redis (Rate Limiting / Caching)  
-✅ Docker (Containerization)  
-✅ Microservices Architecture  
-
----
-
 ## Features
 
 - 🔐 **User Authentication & Authorization** – Secure login and registration with JWT and role-based access control  
@@ -25,6 +14,17 @@ The system integrates **API Gateway**, **JWT-based authentication**, **Kafka** f
 - 📩 **Notification Service** – Real-time alerts for payments, wallet updates, and rewards  
 - 🌐 **API Gateway Integration** – Centralized routing and authentication using Spring Cloud Gateway and Redis  
 - 🐳 **Containerized Deployment** – Seamless setup and deployment with Docker  
+
+---
+
+## Core Technologies
+
+✅ JWT Authentication & Authorization   
+✅ API Gateway (Spring Cloud Gateway)
+✅ Kafka (Event-driven Communication)  
+✅ Redis (Rate Limiting / Caching)  
+✅ Docker (Containerization)  
+✅ Microservices Architecture 
 
 ---
 
