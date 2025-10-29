@@ -88,3 +88,16 @@ Each service operates independently and communicates asynchronously through **Ka
 ---
 
 ## Screenshots
+
+<img width="1140" height="612" alt="Screenshot 2025-10-30 003241" src="https://github.com/user-attachments/assets/688f97aa-c558-44b0-8db3-8e7aacf556d2" />
+
+<img width="1518" height="314" alt="Screenshot 2025-10-30 003513" src="https://github.com/user-attachments/assets/36ce5fdd-c92e-4b48-8f0e-27d2848d5964" />
+
+<img width="814" height="497" alt="Screenshot 2025-10-30 003817" src="https://github.com/user-attachments/assets/0ec92b01-da74-49a8-9144-6a944df9227f" />
+
+<img width="1579" height="495" alt="Screenshot 2025-10-30 003547" src="https://github.com/user-attachments/assets/400deffd-0cd2-4a29-9c52-9e673fb1bb9c" />
+
+<img width="1584" height="499" alt="Screenshot 2025-10-30 003620" src="https://github.com/user-attachments/assets/200d2f40-2953-44a0-aeab-91ffd7e96818" />
+
+
+
