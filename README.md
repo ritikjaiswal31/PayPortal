@@ -19,12 +19,12 @@ The system integrates **API Gateway**, **JWT-based authentication**, **Kafka** f
 
 ## Core Technologies
 
-✅ JWT Authentication & Authorization   
-✅ API Gateway (Spring Cloud Gateway)
+✅ API Gateway (Spring Cloud Gateway)  
+✅ JWT Authentication & Authorization  
 ✅ Kafka (Event-driven Communication)  
 ✅ Redis (Rate Limiting / Caching)  
 ✅ Docker (Containerization)  
-✅ Microservices Architecture 
+✅ Microservices Architecture  
 
 ---
 
