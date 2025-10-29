@@ -5,7 +5,7 @@ The system integrates **API Gateway**, **JWT-based authentication**, **Kafka** f
 
 ---
 
-## 🧠 Core Technologies
+## Core Technologies
 
 ✅ API Gateway (Spring Cloud Gateway)  
 ✅ JWT Authentication & Authorization  
@@ -16,7 +16,7 @@ The system integrates **API Gateway**, **JWT-based authentication**, **Kafka** f
 
 ---
 
-## 🚀 Features
+## Features
 
 - 🔐 **User Authentication & Authorization** – Secure login and registration with JWT and role-based access control  
 - 💼 **Wallet Management** – Create, manage, and track digital wallets with balance updates  
@@ -28,14 +28,14 @@ The system integrates **API Gateway**, **JWT-based authentication**, **Kafka** f
 
 ---
 
-## 🧩 Architecture Overview
+## Architecture Overview
 
 PayPortal follows a **microservices architecture** that promotes scalability, resilience, and modularity.  
 Each service operates independently and communicates asynchronously through **Kafka events**.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category | Technologies |
 |-----------|--------------|
@@ -52,7 +52,7 @@ Each service operates independently and communicates asynchronously through **Ka
 
 ---
 
-## 🧱 Microservices Breakdown
+## Microservices Breakdown
 
 | Service | Key Dependencies |
 |----------|------------------|
@@ -66,7 +66,7 @@ Each service operates independently and communicates asynchronously through **Ka
 
 ---
 
-## ⚙️ Workflow
+## Workflow
 
 1. **User Registration/Login** → via `user-service` (JWT authentication)  
 2. **Wallet Creation** → `wallet-service` assigns a wallet to each user  
@@ -77,7 +77,7 @@ Each service operates independently and communicates asynchronously through **Ka
 
 ---
 
-## 🧰 Tools & Integrations
+## Tools & Integrations
 
 - **Apache Kafka** → Enables asynchronous, event-driven communication  
 - **Redis** → Handles caching and distributed session storage  
@@ -87,4 +87,4 @@ Each service operates independently and communicates asynchronously through **Ka
 
 ---
 
-## 📷 Screenshots
+## Screenshots
